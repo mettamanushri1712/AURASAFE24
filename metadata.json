@@ -1,0 +1,11 @@
+{
+  "name": "SHEGUARD – Your Safety, Your Voice",
+  "description": "Bilingual AI-powered women's safety platform in English & Telugu with SOS Red Alert, voice assistant, GPS tracking, geofenced risk zones, and safety check-ins.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
